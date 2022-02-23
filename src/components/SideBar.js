@@ -1,12 +1,12 @@
 import './SideBar.scss'
 
 import { NavLink } from 'react-router-dom'
-import { MdDashboard, MdLock, MdCompareArrows, MdHelpCenter } from 'react-icons/md'
+import { MdCompareArrows, MdHelpCenter } from 'react-icons/md'
 import { GiReceiveMoney } from 'react-icons/gi'
 import { BsCurrencyExchange } from 'react-icons/bs'
 import { BsPiggyBank } from 'react-icons/bs'
 import { BiTransfer } from 'react-icons/bi'
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { useRef } from 'react'
 
 const helpCenterUrl = 'https://help.ambire.com/hc/en-us/categories/4404980091538-Ambire-Wallet'
 
