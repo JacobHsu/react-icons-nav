@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-icons-nav/static/css/main.925b8c79.css",
+    "main.js": "/react-icons-nav/static/js/main.507b5635.js",
+    "static/js/787.17fed287.chunk.js": "/react-icons-nav/static/js/787.17fed287.chunk.js",
+    "static/media/OpenSans-Medium.ttf": "/react-icons-nav/static/media/OpenSans-Medium.f0cdede053a22b990af8.ttf",
+    "static/media/OpenSans-Regular.ttf": "/react-icons-nav/static/media/OpenSans-Regular.ca49d2b01cf4405e2c90.ttf",
+    "static/media/OpenSans-Bold.ttf": "/react-icons-nav/static/media/OpenSans-Bold.0a80ea3fa6bcc94736a5.ttf",
+    "index.html": "/react-icons-nav/index.html",
+    "main.925b8c79.css.map": "/react-icons-nav/static/css/main.925b8c79.css.map",
+    "main.507b5635.js.map": "/react-icons-nav/static/js/main.507b5635.js.map",
+    "787.17fed287.chunk.js.map": "/react-icons-nav/static/js/787.17fed287.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.925b8c79.css",
+    "static/js/main.507b5635.js"
+  ]
+}
